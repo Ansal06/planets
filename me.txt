@@ -3,3 +3,4 @@ I feel that I appreciate the purpose of this software, especially in research.
 Also, I'm trying to delve into Astronomy with the help of a remote workshop. Enough for now.
 This is me trying to add a new line, in order to track changes and see how git handles it.
 So, I messed up a bit - forgot to commit the changes i made earlier.
+Aargh, another line needs to be added now.
