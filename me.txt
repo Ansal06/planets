@@ -1,0 +1,4 @@
+Hello there! My name is Ansal and this is just me navigating and showing myself around the intricacies of git and github. I'm enjoying it, not gonna lie.
+I feel that I appreciate the purpose of this software, especially in research.
+Also, I'm trying to delve into Astronomy with the help of a remote workshop. Enough for now.
+This is me trying to add a new line, in order to track changes and see how git handles it.
